@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="height55">55dp</dimen>
+    <dimen name="marginStart35">35dp</dimen>
+    <dimen name="marginTop15">15dp</dimen>
+    <dimen name="marginEnd35">35dp</dimen>
+    <dimen name="marginTop8">8dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+    <dimen name="paddingStart20">20dp</dimen>
+    <dimen name="marginTop20">20dp</dimen>
+</resources>
